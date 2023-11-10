@@ -1,3 +1,4 @@
+## this is a discord nuker bot made in python. i got this awhile ago but here it is.
 
 from typing import ContextManager
 import discord
